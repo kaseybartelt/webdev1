@@ -10,6 +10,8 @@ h1 {
     background-color: aquamarine;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
+    margin-left: 20px ;
+    margin-right: 20px;
     margin-bottom: 0;
     border-top: 20px solid cornsilk;
 
@@ -20,20 +22,28 @@ h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
     margin-top: 0;
+    margin-left: 20px ;
+    margin-right: 20px;
     border-bottom: 20px solid cornsilk;
 }
 
 h3 {
     background-color: pink;
     margin-bottom: 0;
+    margin-left: 20px ;
+    margin-right: 20px;
     margin-right: 20;
    
 }
 p {
     background-color: cornsilk;
     margin-top: 0;
+    margin-left: 20px ;
+    margin-right: 20px;
 }
 h4 {
     background-color: darkcyan;
     text-align: center;
+    margin-left: 20px ;
+    margin-right: 20px;
 }
