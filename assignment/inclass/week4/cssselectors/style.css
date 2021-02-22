@@ -1,0 +1,20 @@
+.top-section { 
+    background-color: mediumturquoise;
+}
+
+h1 {
+    color: cornsilk;
+}
+
+.regular-text {
+    font-size: 30px;
+}
+
+.cool-text {
+    color: magenta;
+    font-family: cursive;
+}
+
+#page-subtitle {
+    color: brown;
+}

@@ -1,0 +1,43 @@
+h1 { 
+    color: blue;
+}
+
+.px {
+    font-size: 10px;
+}
+
+.container {
+    font-size: 30px;
+}
+
+.em { 
+    background-color: cadetblue;
+    font-size: 1.25em;
+}
+
+.rem {
+    font-size: 1.25rem;
+    background-color: chartreuse;
+}
+
+.percent-container {
+    background-color: cornflowerblue;
+}
+
+.percent {
+    background-color: cornsilk;
+    width: 50%;
+    height: 20%;
+}
+
+
+.vw {
+    background-color: lightsalmon;
+    width: 50vw;
+}
+
+.vh {
+    background-color: lightslategray;
+    height: 4vh;
+    border: 5px solid mediumaquamarine;
+}
