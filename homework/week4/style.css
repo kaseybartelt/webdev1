@@ -1,0 +1,26 @@
+.container {
+    background: cornflowerblue;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .child {
+    background: crimson;
+    padding: .25em;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .box {
+    width: 12vmin;
+    height: 12vmin;
+    background: lightgreen;
+    margin: .25em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(//picsum.photos/400);
+    background-size: cover;
+  }

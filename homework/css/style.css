@@ -1,0 +1,33 @@
+header { 
+    background-color: lightpink;
+    border: 10px solid lightpink;
+    margin: 0px ;
+}
+
+body {
+    background-color: grey;
+}
+h1 { 
+    background-color: black;
+    color: hotpink;
+    text-align: center;
+}
+
+h2 {
+    background-color: lightslategray;
+}
+
+h4 { 
+    background-color: ivory;
+    margin-top: 0px;
+
+}
+
+p {
+    background-color: maroon;
+    margin-top: 0px;
+}
+
+footer { 
+    background-color: teal;
+}
